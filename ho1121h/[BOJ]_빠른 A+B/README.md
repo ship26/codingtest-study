@@ -1,5 +1,5 @@
 # 빠른 A+B
-[문제링크]("https://www.acmicpc.net/problem/15552")
+[문제링크](https://www.acmicpc.net/problem/15552)
 - for 문이라 간단하게
 ```py
 n = int(input())
