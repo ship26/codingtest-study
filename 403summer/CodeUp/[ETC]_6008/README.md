@@ -27,3 +27,8 @@ print 명령 안에 서식 문자로 \n을 사용하면 줄 바꿈(new line) 문
 
 `print("print(\"Hello\\nWorld\")")` 
 
+
+
+## 3. 참고
+
+print 명령 안에 서식 문자로 \n을 사용하면 줄 바꿈(new line) 문자로 사용된다.
