@@ -1,7 +1,7 @@
 import sys
 input = sys.stdin.readline
 
-# 저장된 사이트 주소수, 찾으려는 사이트 주소수
+
 n, m = map(int, input().split())
 
 hear_set = set()
