@@ -1,4 +1,4 @@
-"""h, m = map(int,(input().split()))
+h, m = map(int,(input().split()))
 t = int(input())
 
 plus_h = t // 60
@@ -14,6 +14,3 @@ if m >= 60:
 if h >= 24:
     h = h % 24
 print(h, m)
-"""
-from datetime import date, t
-print(str(date.today()))
