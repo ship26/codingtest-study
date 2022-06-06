@@ -13,3 +13,9 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
   * [CFS] - 코드포스
   * [SEA] - 삼성SW Expert Academy
   * [ETC] - 그외
+
+  ---
+  ## 히스토리
+
+  ~6-2 :고양이,구구단, 빠른a+b, 소수찾기, 재귀함수가뭔가요, 전쳇계산, 최댓값, 최소,최대, 두 수 비교하기
+  
