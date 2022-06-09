@@ -34,5 +34,4 @@ for i, j in time:
   if i >= last: # 시작시간이 회의의 마지막 시간보다 크거나 같을경우
     conut += 1
     last = j
-
 print(conut)
