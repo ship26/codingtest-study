@@ -27,3 +27,4 @@ result = 0
 for i in range(len(K_bin)):
     result += int(K_bin[i]) * (2 ** k_arr[i])
 print(result)
+ 
